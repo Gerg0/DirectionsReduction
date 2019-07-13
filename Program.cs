@@ -20,10 +20,7 @@ namespace DirectionsReduction
             {
                 Console.WriteLine(i);
             }
-            if (dirReduc(a)==b)
-            {
-                Console.WriteLine("siker!");
-            }
+            
             Console.ReadLine();
         }
         public static string[] dirReduc(String[] arr)
